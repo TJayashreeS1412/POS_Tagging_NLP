@@ -1,9 +1,3 @@
-﻿6320 Assignment 2
-https://github.com/cs6320-501-fall22/assignment2-group05
-Group05        Jayashree Santhoshi Thota                Nitish Narayan Sangepu
-                                              JXT210011                           NXS200075
-
-
 1        Introduction
 
 
